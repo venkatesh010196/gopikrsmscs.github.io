@@ -4,7 +4,7 @@ layout: page
 
 ---
 
-<img src="images/Profile/GopikrishnaPavuluri.PNG" class="avatar" alt="Avatar" width="80" height="310">
+<img src="https://github.com/gopikrsmscs/gopikrsmscs.github.io/blob/main/images/Profile/GopikrishnaPavuluri.png" class="avatar" alt="Avatar" width="80" height="310">
 
 I’m a Graduate Student in the [Department of Computer Science](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at the [University of Texas at Arlington](https://www.uta.edu/).My specalizations are Machine Learning and Software Architectures. I have done my Undergraduate  in Electronics and Communication Engineering from [Koneru Lakshmaiah University](https://www.kluniversity.in). My  interests includes Algorithms,Data Structures,System Design, Machine Learning and Computer Vision. I am actively looking for fulltime/internships opportunities.
 
