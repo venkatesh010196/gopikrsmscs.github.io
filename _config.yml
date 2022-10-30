@@ -1,0 +1,39 @@
+title: Gopikrishna Pavuluri
+author: Gopikrishna Pavuluri
+# email: your-email@domain.com
+# description:
+#google_analytics: UA-199323262-1
+
+url: "http://gopikrsmscs.github.io/"
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+  - projects.md
+  - pub.md
+  - courses.md
+  - professional_experience.md
+  - cv.md
+
+paginate: 5
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
+
+paginate_path: "/news/page:num/"
